@@ -1,0 +1,16 @@
+main: com.dipper.plugin.test
+version: 1.1
+name: ExplodingEssentials
+commands:
+  staff:
+    description: Shows the list of staff configured by the administrator.
+  starter:
+    description: Gives the player kit starter!
+  spawn:
+    description: Sends the player to the spawn area.
+  menu:
+    description: Opens the ExplodingMC Menu!
+  setspawn:
+    description: Sets the spawn of the current world. MUST BE FACING SOUTH!
+  vip:
+    description: Gives the player kit VIP!
